@@ -1,0 +1,6 @@
+/* custom.css */
+p, li, div {
+
+  word-wrap: break-word; /* 当单词太长无法在一行内容纳时，自动将单词拆分成多行 */
+  word-break: break-all; /* 允许在单词内换行 */
+}
