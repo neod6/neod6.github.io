@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r}from"./chunks/framework.Dk5wZOei.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"bronze/2022.md","filePath":"bronze/2022.md"}'),a={name:"bronze/2022.md"};function o(n,s,c,_,p,d){return r(),t("div")}const f=e(a,[["render",o]]);export{m as __pageData,f as default};
