@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a4 as o}from"./chunks/framework.Dk5wZOei.js";const u=JSON.parse('{"title":"USACO 青铜组","description":"","frontmatter":{},"headers":[],"relativePath":"bronze.md","filePath":"bronze.md"}'),i={name:"bronze.md"},l=o("",2),p=[l];function r(n,s,_,c,m,d){return t(),e("div",null,p)}const b=a(i,[["render",r]]);export{u as __pageData,b as default};
