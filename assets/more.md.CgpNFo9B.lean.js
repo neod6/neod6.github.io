@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,a4 as t}from"./chunks/framework.Dk5wZOei.js";const f=JSON.parse('{"title":"USACO 官网","description":"","frontmatter":{},"headers":[],"relativePath":"more.md","filePath":"more.md"}'),o={name:"more.md"},s=t("",10),c=[s];function n(h,l,i,d,u,_){return r(),a("div",null,c)}const m=e(o,[["render",n]]);export{f as __pageData,m as default};
