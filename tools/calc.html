@@ -7,34 +7,32 @@
 			content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
 		<meta http-equiv="Cache-Control" content="no-siteapp">
 		<title>计算器</title>
-		<link rel="stylesheet" href="http://m.apple886.com/mstyle2.css">
-		<!-- <script src="//libs.baidu.com/jquery/2.0.0/jquery.min.js"></script> -->
 		<link rel="stylesheet"
 			href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css">
-
+		<link href="calc.css" rel="stylesheet" type="text/css">
 	</head>
 	<body class="custom-background">
-		<div id="wrapper">
+		<div id="wrapper" width="30">
 			<div id="header">
 				<span class="blog-name"> 计算器 </span>
 			</div>
 
-			<div id="main" >
-				<link href="calc.css" rel="stylesheet" type="text/css">
+			<div id="main" width="30">
+
 				<script type="text/javascript" src="calc.js"></script>
 				<div id="jisuan">
 
-					<div class="calculator_main" id="calculator" >
-						<div class="calculator_con  current">
+					<div class="calculator_main" id="calculator" width="30">
+						<div class="calculator_con  current" width="30">
 							<div id="calculator_base" style="display: block"></div>
 							<div class="calculator_hd">
 								<input type="text" id="resultIpt" readonly class="resultIpt"
 									value="0" size="17" maxlength="17">
 							</div>
-							<div id="baseEprsPanel" valign="middle" width="290"
+							<div id="baseEprsPanel" valign="middle"
 								style="display: none"></div>
-							<div class="calculator_bd" id="calculator_bd" width="300">
-								<ul class="calculator_table">
+							<div class="calculator_bd" id="calculator_bd" >
+								<ul class="calculator_table" width="30">
 									<li>
 										<a class="cal_btn" href="javascript:;"
 											onclick="calculator.memory(this,0);">存储</a><a class="cal_btn"
