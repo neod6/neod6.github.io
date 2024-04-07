@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a4 as r}from"./chunks/framework.Dk5wZOei.js";const b=JSON.parse('{"title":"github","description":"","frontmatter":{},"headers":[],"relativePath":"github.md","filePath":"github.md"}'),i={name:"github.md"},o=r("",13),h=[o];function n(l,s,c,p,d,u){return t(),e("div",null,h)}const m=a(i,[["render",n]]);export{b as __pageData,m as default};
