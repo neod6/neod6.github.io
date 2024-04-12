@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,a4 as l}from"./chunks/framework.Dk5wZOei.js";const m=JSON.parse('{"title":"更多资源","description":"","frontmatter":{},"headers":[],"relativePath":"more.md","filePath":"more.md"}'),t={name:"more.md"},i=l("",9),o=[i];function h(n,s,c,d,u,f){return r(),a("div",null,o)}const b=e(t,[["render",h]]);export{m as __pageData,b as default};
