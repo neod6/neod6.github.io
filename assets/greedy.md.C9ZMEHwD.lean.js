@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as s,a4 as n,a5 as r,a6 as a}from"./chunks/framework.Cp3i8afD.js";const _=JSON.parse('{"title":"贪心算法","description":"","frontmatter":{},"headers":[],"relativePath":"greedy.md","filePath":"greedy.md"}'),e={name:"greedy.md"},i=n("",39),l=[i];function p(g,c,$,d,h,m){return s(),o("div",null,l)}const f=t(e,[["render",p]]);export{_ as __pageData,f as default};

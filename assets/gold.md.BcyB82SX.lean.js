@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as r,a4 as d}from"./chunks/framework.DICQ8_im.js";const b=JSON.parse('{"title":"USACO 黄金组","description":"","frontmatter":{},"headers":[],"relativePath":"gold.md","filePath":"gold.md"}'),a={name:"gold.md"},p=d("",10),o=[p];function n(i,l,h,w,g,c){return r(),e("div",null,o)}const s=t(a,[["render",n]]);export{b as __pageData,s as default};
