@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,a2 as t}from"./chunks/framework.DpEepDfE.js";const u=JSON.parse('{"title":"更多资源","description":"","frontmatter":{},"headers":[],"relativePath":"more.md","filePath":"more.md"}'),o={name:"more.md"},l=t("",8),i=[l];function n(h,s,c,p,d,f){return a(),r("div",null,i)}const b=e(o,[["render",n]]);export{u as __pageData,b as default};

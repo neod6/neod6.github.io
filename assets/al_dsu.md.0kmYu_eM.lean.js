@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a2 as r,a4 as s}from"./chunks/framework.DpEepDfE.js";const b=JSON.parse('{"title":"DSU并查集","description":"","frontmatter":{},"headers":[],"relativePath":"al/dsu.md","filePath":"al/dsu.md"}'),i={name:"al/dsu.md"},o=r("",4),l=[o];function _(c,d,n,p,m,u){return t(),e("div",null,l)}const f=a(i,[["render",_]]);export{b as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a2 as r,a4 as o}from"./chunks/framework.DpEepDfE.js";const g=JSON.parse('{"title":"贪心算法","description":"","frontmatter":{},"headers":[],"relativePath":"al/greedy.md","filePath":"al/greedy.md"}'),i={name:"al/greedy.md"},l=r("",5),p=[l];function s(_,n,c,m,d,h){return t(),e("div",null,p)}const b=a(i,[["render",s]]);export{g as __pageData,b as default};

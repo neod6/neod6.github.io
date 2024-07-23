@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as l,a2 as t}from"./chunks/framework.DpEepDfE.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"bronze/2021.md","filePath":"bronze/2021.md"}'),r={name:"bronze/2021.md"},i=t("",6),o=[i];function h(_,n,s,c,d,m){return l(),e("div",null,o)}const u=a(r,[["render",h]]);export{p as __pageData,u as default};

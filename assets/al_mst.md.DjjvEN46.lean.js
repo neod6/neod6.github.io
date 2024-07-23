@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e,a2 as r,a4 as s}from"./chunks/framework.DpEepDfE.js";const b=JSON.parse('{"title":"MST","description":"","frontmatter":{},"headers":[],"relativePath":"al/mst.md","filePath":"al/mst.md"}'),i={name:"al/mst.md"},l=r("",4),o=[l];function m(_,c,n,p,d,h){return e(),t("div",null,o)}const f=a(i,[["render",m]]);export{b as __pageData,f as default};

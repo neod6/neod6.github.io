@@ -1,1 +1,0 @@
-import{_ as i,c as s,o as a,a4 as t}from"./chunks/framework.DICQ8_im.js";const u=JSON.parse('{"title":"github","description":"","frontmatter":{},"headers":[],"relativePath":"github.md","filePath":"github.md"}'),e={name:"github.md"},l=t("",14),h=[l];function n(p,o,r,d,k,c){return a(),s("div",null,h)}const b=i(e,[["render",n]]);export{u as __pageData,b as default};

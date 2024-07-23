@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as e,a2 as t,a4 as l}from"./chunks/framework.DpEepDfE.js";const b=JSON.parse('{"title":"前缀和算法","description":"","frontmatter":{},"headers":[],"relativePath":"al/ps.md","filePath":"al/ps.md"}'),p={name:"al/ps.md"},r=t("",7),o=[r];function _(s,m,n,c,h,d){return e(),i("div",null,o)}const k=a(p,[["render",_]]);export{b as __pageData,k as default};

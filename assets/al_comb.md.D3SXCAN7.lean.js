@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a2 as r,a4 as l}from"./chunks/framework.DpEepDfE.js";const b=JSON.parse('{"title":"排列组合","description":"","frontmatter":{},"headers":[],"relativePath":"al/comb.md","filePath":"al/comb.md"}'),i={name:"al/comb.md"},o=r("",4),m=[o];function c(p,_,n,s,d,u){return t(),e("div",null,m)}const g=a(i,[["render",c]]);export{b as __pageData,g as default};

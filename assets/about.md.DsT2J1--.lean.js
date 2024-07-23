@@ -1,0 +1,1 @@
+import{_ as a,c as l,o as i,a2 as e,a3 as o,a4 as t}from"./chunks/framework.DpEepDfE.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),r={name:"about.md"},s=e("",12),h=[s];function c(n,d,_,u,b,m){return i(),l("div",null,h)}const g=a(r,[["render",c]]);export{f as __pageData,g as default};

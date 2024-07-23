@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a2 as c,a4 as l}from"./chunks/framework.DpEepDfE.js";const u=JSON.parse('{"title":"LCA","description":"","frontmatter":{},"headers":[],"relativePath":"al/lca.md","filePath":"al/lca.md"}'),r={name:"al/lca.md"},i=c("",4),o=[i];function _(s,m,n,p,d,h){return t(),e("div",null,o)}const f=a(r,[["render",_]]);export{u as __pageData,f as default};
