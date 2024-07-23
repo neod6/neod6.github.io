@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a4 as r}from"./chunks/framework.DICQ8_im.js";const h=JSON.parse('{"title":"单调队列","description":"","frontmatter":{},"headers":[],"relativePath":"al/queue.md","filePath":"al/queue.md"}'),i={name:"al/queue.md"},o=r("",4),_=[o];function l(c,s,n,m,p,u){return t(),e("div",null,_)}const b=a(i,[["render",l]]);export{h as __pageData,b as default};

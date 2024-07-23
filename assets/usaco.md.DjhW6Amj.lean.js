@@ -1,1 +1,0 @@
-import{_ as i,c as e,o as l,a4 as r}from"./chunks/framework.Cp3i8afD.js";const p=JSON.parse('{"title":"CP Guide Contents","description":"","frontmatter":{},"headers":[],"relativePath":"usaco.md","filePath":"usaco.md"}'),m={name:"usaco.md"},t=r("",29),a=[t];function n(o,s,u,g,h,c){return l(),e("div",null,a)}const S=i(m,[["render",n]]);export{p as __pageData,S as default};

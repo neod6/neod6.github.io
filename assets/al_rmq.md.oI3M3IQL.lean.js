@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a4 as l}from"./chunks/framework.DICQ8_im.js";const h=JSON.parse('{"title":"RMQ","description":"","frontmatter":{},"headers":[],"relativePath":"al/rmq.md","filePath":"al/rmq.md"}'),i={name:"al/rmq.md"},r=l("",5),o=[r];function n(s,c,m,p,_,d){return t(),e("div",null,o)}const b=a(i,[["render",n]]);export{h as __pageData,b as default};

@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as a,a4 as e,a3 as o}from"./chunks/framework.DICQ8_im.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"site.md","filePath":"site.md"}'),t={name:"site.md"},r=e("",10),s=[r];function h(c,n,d,_,u,b){return a(),i("div",null,s)}const f=l(t,[["render",h]]);export{p as __pageData,f as default};

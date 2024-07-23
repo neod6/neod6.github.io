@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a4 as r}from"./chunks/framework.DICQ8_im.js";const u=JSON.parse('{"title":"二分查找","description":"","frontmatter":{},"headers":[],"relativePath":"al/bis.md","filePath":"al/bis.md"}'),i={name:"al/bis.md"},l=r("",4),s=[l];function o(c,_,n,p,m,h){return t(),e("div",null,s)}const b=a(i,[["render",o]]);export{u as __pageData,b as default};
