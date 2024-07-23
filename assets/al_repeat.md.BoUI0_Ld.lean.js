@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a4 as r}from"./chunks/framework.DICQ8_im.js";const u=JSON.parse('{"title":"找规律","description":"","frontmatter":{},"headers":[],"relativePath":"al/repeat.md","filePath":"al/repeat.md"}'),o={name:"al/repeat.md"},_=r("",4),c=[_];function i(p,s,n,m,l,d){return t(),e("div",null,c)}const b=a(o,[["render",i]]);export{u as __pageData,b as default};

@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a4 as o}from"./chunks/framework.DICQ8_im.js";const u=JSON.parse('{"title":"洪水填充算法","description":"","frontmatter":{},"headers":[],"relativePath":"al/flood.md","filePath":"al/flood.md"}'),i={name:"al/flood.md"},r=o("",4),l=[r];function n(p,c,_,s,d,m){return t(),e("div",null,l)}const f=a(i,[["render",n]]);export{u as __pageData,f as default};

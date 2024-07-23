@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a4 as r}from"./chunks/framework.DICQ8_im.js";const h=JSON.parse('{"title":"DSU并查集","description":"","frontmatter":{},"headers":[],"relativePath":"al/dsu.md","filePath":"al/dsu.md"}'),s={name:"al/dsu.md"},l=r("",4),o=[l];function i(_,c,d,n,p,u){return t(),e("div",null,o)}const b=a(s,[["render",i]]);export{h as __pageData,b as default};

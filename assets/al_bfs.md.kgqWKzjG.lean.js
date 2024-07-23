@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a4 as r}from"./chunks/framework.DICQ8_im.js";const b=JSON.parse('{"title":"BFS","description":"","frontmatter":{},"headers":[],"relativePath":"al/bfs.md","filePath":"al/bfs.md"}'),s={name:"al/bfs.md"},i=r("",4),o=[i];function _(l,c,m,n,p,d){return t(),e("div",null,o)}const u=a(s,[["render",_]]);export{b as __pageData,u as default};

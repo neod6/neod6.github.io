@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a4 as c}from"./chunks/framework.DICQ8_im.js";const b=JSON.parse('{"title":"LCA","description":"","frontmatter":{},"headers":[],"relativePath":"al/lca.md","filePath":"al/lca.md"}'),l={name:"al/lca.md"},r=c("",4),i=[r];function o(_,s,n,m,p,d){return t(),e("div",null,i)}const u=a(l,[["render",o]]);export{b as __pageData,u as default};

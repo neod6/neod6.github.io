@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a4 as r}from"./chunks/framework.DICQ8_im.js";const u=JSON.parse('{"title":"最短路径","description":"","frontmatter":{},"headers":[],"relativePath":"al/short.md","filePath":"al/short.md"}'),o={name:"al/short.md"},s=r("",4),i=[s];function l(p,_,n,c,h,d){return t(),e("div",null,i)}const b=a(o,[["render",l]]);export{u as __pageData,b as default};

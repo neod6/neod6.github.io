@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a4 as r}from"./chunks/framework.DICQ8_im.js";const u=JSON.parse('{"title":"贪心算法","description":"","frontmatter":{},"headers":[],"relativePath":"al/greedy.md","filePath":"al/greedy.md"}'),o={name:"al/greedy.md"},i=r("",5),l=[i];function p(s,n,_,c,m,d){return t(),e("div",null,l)}const g=a(o,[["render",p]]);export{u as __pageData,g as default};

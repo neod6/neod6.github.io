@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as i,a4 as t}from"./chunks/framework.DICQ8_im.js";const u=JSON.parse('{"title":"前缀和算法","description":"","frontmatter":{},"headers":[],"relativePath":"al/ps.md","filePath":"al/ps.md"}'),l={name:"al/ps.md"},p=t("",7),r=[p];function o(_,n,s,c,m,h){return i(),e("div",null,r)}const b=a(l,[["render",o]]);export{u as __pageData,b as default};

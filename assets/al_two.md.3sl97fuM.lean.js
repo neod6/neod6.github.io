@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a4 as r,a3 as i}from"./chunks/framework.DICQ8_im.js";const b=JSON.parse('{"title":"双指针","description":"","frontmatter":{},"headers":[],"relativePath":"al/two.md","filePath":"al/two.md"}'),o={name:"al/two.md"},l=r("",4),s=[l];function _(c,n,p,m,d,h){return t(),e("div",null,s)}const f=a(o,[["render",_]]);export{b as __pageData,f as default};

@@ -1,1 +1,0 @@
-import{_ as a,c as t,o as e,a4 as r}from"./chunks/framework.DICQ8_im.js";const u=JSON.parse('{"title":"TTC","description":"","frontmatter":{},"headers":[],"relativePath":"al/ttc.md","filePath":"al/ttc.md"}'),i={name:"al/ttc.md"},c=r("",4),l=[c];function o(_,s,n,m,p,h){return e(),t("div",null,l)}const f=a(i,[["render",o]]);export{u as __pageData,f as default};
