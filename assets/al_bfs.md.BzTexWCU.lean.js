@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as d,a2 as f,a4 as e}from"./chunks/framework.DpEepDfE.js";const u=JSON.parse('{"title":"代码","description":"","frontmatter":{},"headers":[],"relativePath":"al/bfs.md","filePath":"al/bfs.md"}'),t={name:"al/bfs.md"},i=f("",6),l=[i];function r(o,_,c,m,n,p){return d(),s("div",null,l)}const b=a(t,[["render",r]]);export{u as __pageData,b as default};

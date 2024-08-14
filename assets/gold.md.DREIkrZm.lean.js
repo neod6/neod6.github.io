@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as i,a2 as l}from"./chunks/framework.DpEepDfE.js";const h=JSON.parse('{"title":"USACO 黄金组","description":"","frontmatter":{},"headers":[],"relativePath":"gold.md","filePath":"gold.md"}'),t={name:"gold.md"},r=l("",4),o=[r];function n(p,m,_,c,s,u){return i(),e("div",null,o)}const b=a(t,[["render",n]]);export{h as __pageData,b as default};
